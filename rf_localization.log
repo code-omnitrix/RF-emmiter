@@ -1,0 +1,247 @@
+2025-08-19 17:53:14,137 - INFO - Coordinate converter initialized: UTM zone 35, origin (293527.94, 2434177.27)
+2025-08-19 17:53:14,137 - INFO - RF Emitter Localization System initialized
+2025-08-19 17:53:14,137 - INFO - Loading detection data...
+2025-08-19 17:53:14,658 - INFO - Loaded 10000 detections from data/Data_Dist.xlsx
+2025-08-19 17:53:15,019 - INFO - Loaded 10 target emitters from data/Targets.xlsx
+2025-08-19 17:53:15,019 - INFO - Grouping detections by signal parameters...
+2025-08-19 17:53:15,065 - INFO - Grouped 10000 detections into 37 emitter groups
+2025-08-19 17:53:15,065 - INFO - Performing localization for each emitter group...
+2025-08-19 17:53:15,065 - INFO - Processing emitter group 1/37 (1055 detections)
+2025-08-19 17:53:27,741 - INFO - Emitter 1 localized at (20.574108, 26.311646) with confidence 0.012
+2025-08-19 17:53:27,741 - INFO - Processing emitter group 2/37 (159 detections)
+2025-08-19 17:53:32,992 - INFO - Emitter 2 localized at (21.492849, 25.604928) with confidence 0.043
+2025-08-19 17:53:32,992 - INFO - Processing emitter group 3/37 (161 detections)
+2025-08-19 17:53:39,665 - INFO - Emitter 3 localized at (21.905359, 26.978913) with confidence 0.025
+2025-08-19 17:53:39,666 - INFO - Processing emitter group 4/37 (241 detections)
+2025-08-19 17:53:45,986 - INFO - Emitter 4 localized at (21.563371, 25.129550) with confidence 0.023
+2025-08-19 17:53:45,986 - INFO - Processing emitter group 5/37 (235 detections)
+2025-08-19 17:53:53,068 - INFO - Emitter 5 localized at (21.399420, 25.590002) with confidence 0.029
+2025-08-19 17:53:53,069 - INFO - Processing emitter group 6/37 (78 detections)
+2025-08-19 17:53:57,517 - INFO - Emitter 6 localized at (21.758906, 25.111032) with confidence 0.057
+2025-08-19 17:53:57,517 - INFO - Processing emitter group 7/37 (77 detections)
+2025-08-19 17:54:02,251 - INFO - Emitter 7 localized at (21.507031, 26.554350) with confidence 0.065
+2025-08-19 17:54:02,251 - INFO - Processing emitter group 8/37 (153 detections)
+2025-08-19 17:54:07,659 - INFO - Emitter 8 localized at (21.371183, 25.821014) with confidence 0.039
+2025-08-19 17:54:07,659 - INFO - Processing emitter group 9/37 (172 detections)
+2025-08-19 17:54:13,116 - INFO - Emitter 9 localized at (21.498661, 25.847518) with confidence 0.040
+2025-08-19 17:54:13,116 - INFO - Processing emitter group 10/37 (55 detections)
+2025-08-19 17:54:17,907 - INFO - Emitter 10 localized at (22.661548, 26.175879) with confidence 0.054
+2025-08-19 17:54:17,907 - INFO - Processing emitter group 11/37 (57 detections)
+2025-08-19 17:54:23,474 - INFO - Emitter 11 localized at (21.904232, 26.098437) with confidence 0.104
+2025-08-19 17:54:23,474 - INFO - Processing emitter group 12/37 (66 detections)
+2025-08-19 17:54:28,317 - INFO - Emitter 12 localized at (22.515517, 25.909366) with confidence 0.090
+2025-08-19 17:54:28,317 - INFO - Processing emitter group 13/37 (65 detections)
+2025-08-19 17:54:34,371 - INFO - Emitter 13 localized at (22.129429, 26.987612) with confidence 0.077
+2025-08-19 17:54:34,371 - INFO - Processing emitter group 14/37 (61 detections)
+2025-08-19 17:54:39,685 - INFO - Emitter 14 localized at (21.959399, 25.228600) with confidence 0.078
+2025-08-19 17:54:39,686 - INFO - Processing emitter group 15/37 (60 detections)
+2025-08-19 17:54:44,778 - INFO - Emitter 15 localized at (22.500906, 26.398437) with confidence 0.083
+2025-08-19 17:54:44,778 - INFO - Processing emitter group 16/37 (77 detections)
+2025-08-19 17:54:49,718 - INFO - Emitter 16 localized at (21.890263, 25.101701) with confidence 0.049
+2025-08-19 17:54:49,718 - INFO - Processing emitter group 17/37 (52 detections)
+2025-08-19 17:54:55,281 - INFO - Emitter 17 localized at (21.777643, 26.723130) with confidence 0.077
+2025-08-19 17:54:55,281 - INFO - Processing emitter group 18/37 (64 detections)
+2025-08-19 17:55:01,430 - INFO - Emitter 18 localized at (23.272216, 26.855449) with confidence 0.047
+2025-08-19 17:55:01,430 - INFO - Processing emitter group 19/37 (54 detections)
+2025-08-19 17:55:07,019 - INFO - Emitter 19 localized at (21.307129, 25.268325) with confidence 0.071
+2025-08-19 17:55:07,019 - INFO - Processing emitter group 20/37 (53 detections)
+2025-08-19 17:55:12,744 - INFO - Emitter 20 localized at (22.557032, 26.497420) with confidence 0.056
+2025-08-19 17:55:12,744 - INFO - Processing emitter group 21/37 (5 detections)
+2025-08-19 17:55:19,406 - INFO - Emitter 21 localized at (22.392350, 26.444882) with confidence 0.500
+2025-08-19 17:55:19,406 - INFO - Processing emitter group 22/37 (1000 detections)
+2025-08-19 17:55:32,576 - INFO - Emitter 22 localized at (24.563839, 22.708467) with confidence 0.030
+2025-08-19 17:55:32,576 - INFO - Processing emitter group 23/37 (1000 detections)
+2025-08-19 17:55:45,154 - INFO - Emitter 23 localized at (25.240810, 21.117959) with confidence 0.019
+2025-08-19 17:55:45,154 - INFO - Processing emitter group 24/37 (505 detections)
+2025-08-19 17:55:53,822 - INFO - Emitter 24 localized at (25.240322, 25.127378) with confidence 0.022
+2025-08-19 17:55:53,822 - INFO - Processing emitter group 25/37 (600 detections)
+2025-08-19 17:56:05,088 - INFO - Emitter 25 localized at (26.112930, 26.445660) with confidence 0.056
+2025-08-19 17:56:05,089 - INFO - Processing emitter group 26/37 (986 detections)
+2025-08-19 17:56:17,615 - INFO - Emitter 26 localized at (26.223461, 23.404912) with confidence 0.023
+2025-08-19 17:56:17,615 - INFO - Processing emitter group 27/37 (153 detections)
+2025-08-19 17:56:23,170 - INFO - Emitter 27 localized at (27.006454, 24.267420) with confidence 0.045
+2025-08-19 17:56:23,170 - INFO - Processing emitter group 28/37 (1000 detections)
+2025-08-19 17:56:35,370 - INFO - Emitter 28 localized at (27.272999, 23.680002) with confidence 0.025
+2025-08-19 17:56:35,370 - INFO - Processing emitter group 29/37 (123 detections)
+2025-08-19 17:56:39,941 - INFO - Emitter 29 localized at (28.672635, 24.400282) with confidence 0.032
+2025-08-19 17:56:39,941 - INFO - Processing emitter group 30/37 (123 detections)
+2025-08-19 17:56:45,013 - INFO - Emitter 30 localized at (29.207613, 24.090389) with confidence 0.040
+2025-08-19 17:56:45,013 - INFO - Processing emitter group 31/37 (137 detections)
+2025-08-19 17:56:50,115 - INFO - Emitter 31 localized at (29.267174, 24.455314) with confidence 0.036
+2025-08-19 17:56:50,115 - INFO - Processing emitter group 32/37 (125 detections)
+2025-08-19 17:56:55,334 - INFO - Emitter 32 localized at (29.007018, 23.799871) with confidence 0.032
+2025-08-19 17:56:55,334 - INFO - Processing emitter group 33/37 (265 detections)
+2025-08-19 17:57:04,469 - INFO - Emitter 33 localized at (29.486487, 25.475606) with confidence 0.019
+2025-08-19 17:57:04,469 - INFO - Processing emitter group 34/37 (328 detections)
+2025-08-19 17:57:13,978 - INFO - Emitter 34 localized at (29.304443, 25.428950) with confidence 0.021
+2025-08-19 17:57:13,978 - INFO - Processing emitter group 35/37 (308 detections)
+2025-08-19 17:57:21,510 - INFO - Emitter 35 localized at (29.795050, 25.567832) with confidence 0.029
+2025-08-19 17:57:21,510 - INFO - Processing emitter group 36/37 (217 detections)
+2025-08-19 17:57:27,719 - INFO - Emitter 36 localized at (29.873899, 25.418020) with confidence 0.031
+2025-08-19 17:57:27,719 - INFO - Processing emitter group 37/37 (130 detections)
+2025-08-19 17:57:33,733 - INFO - Emitter 37 localized at (29.660753, 26.074171) with confidence 0.053
+2025-08-19 17:57:33,733 - INFO - Generating probable area polygons...
+2025-08-19 17:57:33,734 - INFO - GeoJSON exported to output/emitter_probable_areas.geojson
+2025-08-19 17:57:33,751 - INFO - Results exported to output/localization_results.xlsx
+2025-08-19 17:57:33,752 - INFO - Processing complete: 37/37 emitters localized with average confidence 0.058
+2025-08-19 18:03:22,778 - INFO - Coordinate converter initialized: UTM zone 35, origin (293527.94, 2434177.27)
+2025-08-19 18:03:22,779 - INFO - Starting comprehensive performance analysis...
+2025-08-19 18:03:22,779 - INFO - Loading datasets...
+2025-08-19 18:03:23,206 - INFO - Loaded 10000 detections from data/Data_Dist.xlsx
+2025-08-19 18:03:23,545 - INFO - Loaded 10000 detections
+2025-08-19 18:03:23,552 - INFO - Loaded 10 target emitters from data/Targets.xlsx
+2025-08-19 18:03:23,552 - INFO - Loaded 10 target emitters
+2025-08-19 18:03:23,552 - INFO - Analyzing Triangulation method performance...
+2025-08-19 18:03:23,633 - INFO - Grouped 10000 detections into 37 emitter groups
+2025-08-19 18:03:25,127 - INFO - Analyzing Robust_Triangulation method performance...
+2025-08-19 18:03:25,196 - INFO - Grouped 10000 detections into 37 emitter groups
+2025-08-19 18:08:24,249 - INFO - Analyzing RSS method performance...
+2025-08-19 18:08:24,324 - INFO - Grouped 10000 detections into 37 emitter groups
+2025-08-19 18:08:24,363 - INFO - Analyzing Hybrid_Fusion method performance...
+2025-08-19 18:08:24,475 - INFO - Grouped 10000 detections into 37 emitter groups
+2025-08-19 18:13:14,280 - INFO - Generating visualizations...
+2025-08-19 18:13:15,790 - INFO - Visualizations saved to benchmarking_results
+2025-08-19 18:13:15,790 - INFO - Exporting detailed reports...
+2025-08-19 18:13:15,819 - INFO - Detailed reports exported to benchmarking_results
+2025-08-19 18:13:15,820 - INFO - Comprehensive analysis completed!
+2025-08-19 18:27:36,117 - INFO - Coordinate converter initialized: UTM zone 35, origin (293527.94, 2434177.27)
+2025-08-19 18:45:52,492 - INFO - Coordinate converter initialized: UTM zone 35, origin (293527.94, 2434177.27)
+2025-08-19 18:45:52,492 - INFO - RF Emitter Localization System initialized
+2025-08-19 18:45:52,492 - INFO - Loading detection data...
+2025-08-19 18:45:52,528 - INFO - Loaded 1000 detections from data/Data_Dist.xlsx
+2025-08-19 18:45:52,564 - INFO - Loaded 5 target emitters from data/Targets.xlsx
+2025-08-19 18:45:52,564 - INFO - Grouping detections by signal parameters...
+2025-08-19 18:45:52,569 - INFO - Grouped 1000 detections into 53 emitter groups
+2025-08-19 18:45:52,569 - INFO - Performing localization for each emitter group...
+2025-08-19 18:45:52,569 - INFO - Processing emitter group 1/53 (65 detections)
+2025-08-19 18:46:00,034 - INFO - Emitter 1 localized at (25.074626, 20.721522) with confidence 0.500
+2025-08-19 18:46:00,034 - INFO - Processing emitter group 2/53 (57 detections)
+2025-08-19 18:46:07,793 - INFO - Emitter 2 localized at (20.400678, 26.827908) with confidence 0.500
+2025-08-19 18:46:07,794 - INFO - Processing emitter group 3/53 (56 detections)
+2025-08-19 18:46:15,803 - INFO - Emitter 3 localized at (22.158949, 22.914023) with confidence 0.500
+2025-08-19 18:46:15,803 - INFO - Processing emitter group 4/53 (64 detections)
+2025-08-19 18:46:23,671 - INFO - Emitter 4 localized at (18.280041, 22.942018) with confidence 0.500
+2025-08-19 18:46:23,671 - INFO - Processing emitter group 5/53 (48 detections)
+2025-08-19 18:46:31,081 - INFO - Emitter 5 localized at (21.588819, 26.022725) with confidence 0.500
+2025-08-19 18:46:31,081 - INFO - Processing emitter group 6/53 (29 detections)
+2025-08-19 18:46:37,880 - INFO - Emitter 6 localized at (21.540596, 20.360093) with confidence 0.500
+2025-08-19 18:46:37,880 - INFO - Processing emitter group 7/53 (24 detections)
+2025-08-19 18:46:45,135 - INFO - Emitter 7 localized at (26.528975, 31.943693) with confidence 0.500
+2025-08-19 18:46:45,135 - INFO - Processing emitter group 8/53 (43 detections)
+2025-08-19 18:46:53,126 - INFO - Emitter 8 localized at (22.857338, 26.140276) with confidence 0.500
+2025-08-19 18:46:53,127 - INFO - Processing emitter group 9/53 (17 detections)
+2025-08-19 18:47:01,275 - INFO - Emitter 9 localized at (28.925566, 27.822257) with confidence 0.500
+2025-08-19 18:47:01,275 - INFO - Processing emitter group 10/53 (56 detections)
+2025-08-19 18:47:09,693 - INFO - Emitter 10 localized at (25.460594, 29.478035) with confidence 0.053
+2025-08-19 18:47:09,693 - INFO - Processing emitter group 11/53 (52 detections)
+2025-08-19 18:47:17,678 - INFO - Emitter 11 localized at (20.630421, 29.126332) with confidence 0.500
+2025-08-19 18:47:17,678 - INFO - Processing emitter group 12/53 (53 detections)
+2025-08-19 18:47:24,889 - INFO - Emitter 12 localized at (28.303077, 26.615504) with confidence 0.056
+2025-08-19 18:47:24,889 - INFO - Processing emitter group 13/53 (23 detections)
+2025-08-19 18:47:32,194 - INFO - Emitter 13 localized at (20.630295, 22.489834) with confidence 0.500
+2025-08-19 18:47:32,195 - INFO - Processing emitter group 14/53 (21 detections)
+2025-08-19 18:47:40,231 - INFO - Emitter 14 localized at (33.430913, 22.872624) with confidence 0.500
+2025-08-19 18:47:40,231 - INFO - Processing emitter group 15/53 (19 detections)
+2025-08-19 18:47:47,300 - INFO - Emitter 15 localized at (20.860956, 25.725039) with confidence 0.500
+2025-08-19 18:47:47,300 - INFO - Processing emitter group 16/53 (25 detections)
+2025-08-19 18:47:54,165 - INFO - Emitter 16 localized at (22.097475, 25.926171) with confidence 0.120
+2025-08-19 18:47:54,166 - INFO - Processing emitter group 17/53 (25 detections)
+2025-08-19 18:48:00,701 - INFO - Emitter 17 localized at (28.620890, 29.053825) with confidence 0.500
+2025-08-19 18:48:00,701 - INFO - Processing emitter group 18/53 (5 detections)
+2025-08-19 18:48:09,057 - INFO - Emitter 18 localized at (25.952984, 28.668485) with confidence 0.500
+2025-08-19 18:48:09,057 - INFO - Processing emitter group 19/53 (29 detections)
+2025-08-19 18:48:16,067 - INFO - Emitter 19 localized at (20.216169, 22.087420) with confidence 0.500
+2025-08-19 18:48:16,068 - INFO - Processing emitter group 20/53 (49 detections)
+2025-08-19 18:48:22,672 - INFO - Emitter 20 localized at (26.066200, 26.666551) with confidence 0.500
+2025-08-19 18:48:22,672 - INFO - Processing emitter group 21/53 (11 detections)
+2025-08-19 18:48:28,547 - INFO - Emitter 21 localized at (20.475365, 26.810691) with confidence 0.500
+2025-08-19 18:48:28,547 - INFO - Processing emitter group 22/53 (21 detections)
+2025-08-19 18:48:35,145 - INFO - Emitter 22 localized at (25.989828, 26.649016) with confidence 0.500
+2025-08-19 18:48:35,145 - INFO - Processing emitter group 23/53 (18 detections)
+2025-08-19 18:48:42,531 - INFO - Emitter 23 localized at (23.907152, 29.726619) with confidence 0.500
+2025-08-19 18:48:42,532 - INFO - Processing emitter group 24/53 (16 detections)
+2025-08-19 18:48:48,371 - INFO - Emitter 24 localized at (27.925107, 25.497111) with confidence 0.500
+2025-08-19 18:48:48,371 - INFO - Processing emitter group 25/53 (10 detections)
+2025-08-19 18:48:54,651 - INFO - Emitter 25 localized at (26.671497, 21.190725) with confidence 0.500
+2025-08-19 18:48:54,651 - INFO - Processing emitter group 26/53 (27 detections)
+2025-08-19 18:49:01,458 - INFO - Emitter 26 localized at (25.789740, 21.209184) with confidence 0.500
+2025-08-19 18:49:01,458 - INFO - Processing emitter group 27/53 (3 detections)
+2025-08-19 18:49:06,129 - INFO - Emitter 27 localized at (52.009453, 56.097653) with confidence 0.369
+2025-08-19 18:49:06,129 - INFO - Processing emitter group 28/53 (7 detections)
+2025-08-19 18:49:10,808 - INFO - Emitter 28 localized at (20.974080, 13.949133) with confidence 0.500
+2025-08-19 18:49:10,808 - INFO - Processing emitter group 29/53 (15 detections)
+2025-08-19 18:49:17,519 - INFO - Emitter 29 localized at (23.159380, 26.548443) with confidence 0.500
+2025-08-19 18:49:17,519 - INFO - Processing emitter group 30/53 (12 detections)
+2025-08-19 18:49:24,535 - INFO - Emitter 30 localized at (26.275350, 20.320752) with confidence 0.500
+2025-08-19 18:49:24,535 - INFO - Processing emitter group 31/53 (2 detections)
+2025-08-19 18:49:24,555 - INFO - Emitter 31 localized at (29.717836, 25.924055) with confidence 0.878
+2025-08-19 18:49:24,555 - INFO - Processing emitter group 32/53 (9 detections)
+2025-08-19 18:49:30,663 - INFO - Emitter 32 localized at (25.789670, 29.310979) with confidence 0.500
+2025-08-19 18:49:30,663 - INFO - Processing emitter group 33/53 (19 detections)
+2025-08-19 18:49:37,707 - INFO - Emitter 33 localized at (26.000106, 28.684494) with confidence 0.500
+2025-08-19 18:49:37,707 - INFO - Processing emitter group 34/53 (11 detections)
+2025-08-19 18:49:44,327 - INFO - Emitter 34 localized at (26.686616, 28.149964) with confidence 0.500
+2025-08-19 18:49:44,327 - INFO - Processing emitter group 35/53 (1 detections)
+2025-08-19 18:49:44,328 - ERROR - Failed to localize emitter group 35: Need at least 2 detections for triangulation
+2025-08-19 18:49:44,328 - INFO - Processing emitter group 36/53 (13 detections)
+2025-08-19 18:49:50,234 - INFO - Emitter 36 localized at (26.869796, 25.716498) with confidence 0.500
+2025-08-19 18:49:50,234 - INFO - Processing emitter group 37/53 (3 detections)
+2025-08-19 18:50:02,223 - INFO - Emitter 37 localized at (29.611920, 27.158266) with confidence 0.500
+2025-08-19 18:50:02,223 - INFO - Processing emitter group 38/53 (5 detections)
+2025-08-19 18:50:09,422 - INFO - Emitter 38 localized at (21.393558, 25.799836) with confidence 0.500
+2025-08-19 18:50:09,423 - INFO - Processing emitter group 39/53 (3 detections)
+2025-08-19 18:50:12,448 - INFO - Emitter 39 localized at (48.952133, 11.691427) with confidence 0.204
+2025-08-19 18:50:12,448 - INFO - Processing emitter group 40/53 (3 detections)
+2025-08-19 18:50:14,706 - INFO - Emitter 40 localized at (30.719615, 30.364030) with confidence 0.121
+2025-08-19 18:50:14,706 - INFO - Processing emitter group 41/53 (1 detections)
+2025-08-19 18:50:14,706 - ERROR - Failed to localize emitter group 41: Need at least 2 detections for triangulation
+2025-08-19 18:50:14,706 - INFO - Processing emitter group 42/53 (5 detections)
+2025-08-19 18:50:21,124 - INFO - Emitter 42 localized at (28.056150, 31.050829) with confidence 0.500
+2025-08-19 18:50:21,124 - INFO - Processing emitter group 43/53 (1 detections)
+2025-08-19 18:50:21,124 - ERROR - Failed to localize emitter group 43: Need at least 2 detections for triangulation
+2025-08-19 18:50:21,124 - INFO - Processing emitter group 44/53 (6 detections)
+2025-08-19 18:50:27,755 - INFO - Emitter 44 localized at (20.664964, 23.032741) with confidence 0.500
+2025-08-19 18:50:27,755 - INFO - Processing emitter group 45/53 (2 detections)
+2025-08-19 18:50:27,760 - INFO - Emitter 45 localized at (23.851440, 28.490972) with confidence 1.000
+2025-08-19 18:50:27,760 - INFO - Processing emitter group 46/53 (2 detections)
+2025-08-19 18:50:27,779 - INFO - Emitter 46 localized at (21.486617, 29.430753) with confidence 0.231
+2025-08-19 18:50:27,779 - INFO - Processing emitter group 47/53 (2 detections)
+2025-08-19 18:50:27,785 - INFO - Emitter 47 localized at (39.864197, 92.459105) with confidence 0.549
+2025-08-19 18:50:27,785 - INFO - Processing emitter group 48/53 (4 detections)
+2025-08-19 18:50:32,689 - INFO - Emitter 48 localized at (27.771469, 24.971752) with confidence 0.500
+2025-08-19 18:50:32,690 - INFO - Processing emitter group 49/53 (1 detections)
+2025-08-19 18:50:32,690 - ERROR - Failed to localize emitter group 49: Need at least 2 detections for triangulation
+2025-08-19 18:50:32,690 - INFO - Processing emitter group 50/53 (2 detections)
+2025-08-19 18:50:32,705 - INFO - Emitter 50 localized at (24.087331, 28.407036) with confidence 0.124
+2025-08-19 18:50:32,706 - INFO - Processing emitter group 51/53 (3 detections)
+2025-08-19 18:50:35,552 - INFO - Emitter 51 localized at (36.394180, 16.897981) with confidence 0.356
+2025-08-19 18:50:35,552 - INFO - Processing emitter group 52/53 (1 detections)
+2025-08-19 18:50:35,552 - ERROR - Failed to localize emitter group 52: Need at least 2 detections for triangulation
+2025-08-19 18:50:35,552 - INFO - Processing emitter group 53/53 (1 detections)
+2025-08-19 18:50:35,552 - ERROR - Failed to localize emitter group 53: Need at least 2 detections for triangulation
+2025-08-19 18:50:35,552 - INFO - Generating probable area polygons...
+2025-08-19 18:50:35,571 - INFO - GeoJSON exported to output/emitter_probable_areas.geojson
+2025-08-19 18:50:35,605 - INFO - Results exported to output/localization_results.xlsx
+2025-08-19 18:50:35,605 - INFO - Processing complete: 47/53 emitters localized with average confidence 0.459
+2025-08-19 18:50:37,117 - INFO - Coordinate converter initialized: UTM zone 35, origin (293527.94, 2434177.27)
+2025-08-19 18:50:37,117 - INFO - Starting comprehensive performance analysis...
+2025-08-19 18:50:37,117 - INFO - Loading datasets...
+2025-08-19 18:50:37,161 - INFO - Loaded 1000 detections from data/Data_Dist.xlsx
+2025-08-19 18:50:37,192 - INFO - Loaded 1000 detections
+2025-08-19 18:50:37,199 - INFO - Loaded 5 target emitters from data/Targets.xlsx
+2025-08-19 18:50:37,200 - INFO - Loaded 5 target emitters
+2025-08-19 18:50:37,200 - INFO - Analyzing Triangulation method performance...
+2025-08-19 18:50:37,205 - INFO - Grouped 1000 detections into 53 emitter groups
+2025-08-19 18:50:37,688 - INFO - Analyzing Robust_Triangulation method performance...
+2025-08-19 18:50:37,692 - INFO - Grouped 1000 detections into 53 emitter groups
+2025-08-19 18:55:08,653 - INFO - Analyzing RSS method performance...
+2025-08-19 18:55:08,657 - INFO - Grouped 1000 detections into 53 emitter groups
+2025-08-19 18:55:08,671 - INFO - Analyzing Hybrid_Fusion method performance...
+2025-08-19 18:55:08,676 - INFO - Grouped 1000 detections into 53 emitter groups
+2025-08-19 18:59:45,259 - INFO - Generating visualizations...
+2025-08-19 18:59:46,729 - INFO - Visualizations saved to benchmarking_results
+2025-08-19 18:59:46,729 - INFO - Exporting detailed reports...
+2025-08-19 18:59:46,760 - INFO - Detailed reports exported to benchmarking_results
+2025-08-19 18:59:46,761 - INFO - Comprehensive analysis completed!
+2025-08-19 18:59:48,222 - INFO - Coordinate converter initialized: UTM zone 35, origin (293527.94, 2434177.27)
+2025-08-19 19:08:15,944 - INFO - Coordinate converter initialized: UTM zone 35, origin (293527.94, 2434177.27)

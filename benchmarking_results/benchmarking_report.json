@@ -1,0 +1,94 @@
+{
+  "analysis_timestamp": "2025-08-19T18:59:46.760053",
+  "dataset_info": {
+    "targets_count": 5,
+    "frequency_ranges": [
+      "1850-1900",
+      "1900-1950",
+      "1950-2000",
+      "2000-2050",
+      "2050-2100"
+    ],
+    "coordinate_bounds": {
+      "lat_min": 22.5,
+      "lat_max": 28.5,
+      "lon_min": 23.0,
+      "lon_max": 29.0
+    }
+  },
+  "method_performance": {
+    "Triangulation": {
+      "average_error_distance_m": 2007006.6295029721,
+      "average_probable_area_km2": 60.45482169368896,
+      "success_rate": 0.8867924528301887,
+      "processing_time_s": 0.482266
+    },
+    "Robust_Triangulation": {
+      "average_error_distance_m": 816867.6636157058,
+      "average_probable_area_km2": 23.56862489125388,
+      "success_rate": 0.8867924528301887,
+      "processing_time_s": 270.960099
+    },
+    "RSS": {
+      "average_error_distance_m": 349626.15330561216,
+      "average_probable_area_km2": 1.808447211545788,
+      "success_rate": 0.7924528301886793,
+      "processing_time_s": 0.012956
+    },
+    "Hybrid_Fusion": {
+      "average_error_distance_m": 688353.0477424802,
+      "average_probable_area_km2": 5.768573260792928,
+      "success_rate": 0.8867924528301887,
+      "processing_time_s": 276.583066
+    }
+  },
+  "comparison_results": {
+    "performance_ranking": {},
+    "relative_performance": {
+      "average_error_distance": {
+        "Triangulation": 17.420278945077317,
+        "Robust_Triangulation": 42.80083162529167,
+        "RSS": 100.0,
+        "Hybrid_Fusion": 50.791691044623775
+      },
+      "median_error_distance": {
+        "Triangulation": 42.98840396746166,
+        "Robust_Triangulation": 68.8490643283841,
+        "RSS": 100.0,
+        "Hybrid_Fusion": 71.17951555270695
+      },
+      "percentile_95_error": {
+        "Triangulation": 7.54153373802536,
+        "Robust_Triangulation": 24.57720623471493,
+        "RSS": 100.0,
+        "Hybrid_Fusion": 41.596891978435444
+      },
+      "average_probable_area": {
+        "Triangulation": 2.9914027713269666,
+        "Robust_Triangulation": 7.673112962211418,
+        "RSS": 100.0,
+        "Hybrid_Fusion": 31.34999123331243
+      },
+      "success_rate": {
+        "Triangulation": 100.0,
+        "Robust_Triangulation": 100.0,
+        "RSS": 89.36170212765958,
+        "Hybrid_Fusion": 100.0
+      }
+    },
+    "best_method_by_metric": {
+      "average_error_distance": "RSS",
+      "median_error_distance": "RSS",
+      "percentile_95_error": "RSS",
+      "average_probable_area": "RSS",
+      "success_rate": "Triangulation"
+    }
+  },
+  "research_benchmarks": {
+    "reported_average_area_km2": 1.4,
+    "reported_average_error_m": 12.5,
+    "stage_1_target_area_km2": 400.0,
+    "stage_2_target_area_km2": 225.0,
+    "stage_3_target_area_km2": 100.0
+  }
+}
